@@ -1,0 +1,7 @@
+Model,MAPE (%),MAE,RMSE
+Linear Stacking,5.09,12948.98,15893.72
+Prophet (solo),26.03,47030.17,54861.13
+Optimal Blend,26.03,47030.17,54861.13
+Weighted Average,31.13,52447.78,64010.79
+Simple Average,32.38,53769.63,66819.69
+LSTM (solo),38.73,60509.09,83434.17
